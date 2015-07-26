@@ -11,8 +11,6 @@ The dataset includes the following files:
 
 - 'features.txt': List of all features.
 
-- 'getdata-projectfiles-UCI HAR Dataset.zip': Original data which analysis is performed on. Data was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
-
 - 'courseProject.R': R script for performing the analysis.
 
 - 'activityFeaturesMean.txt': Data set with the average of each variable for each activity and each volunteer.
