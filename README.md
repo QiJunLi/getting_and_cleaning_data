@@ -11,7 +11,7 @@ The dataset includes the following files:
 
 - 'features.txt': List of all features.
 
-- 'courseProject.R': R script for performing the analysis.
+- 'run_analysis.R': R script for performing the analysis.
 
 - 'activityFeaturesMean.txt': Data set with the average of each variable for each activity and each volunteer.
 
